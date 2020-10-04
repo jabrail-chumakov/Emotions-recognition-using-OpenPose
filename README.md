@@ -15,7 +15,7 @@ In my case I used three emotion: happy, neutral and surprise. On the official we
 
  ```javascript
 It should be noted, that in case if emotion not in the list it should throw garbage. 
-Also, you can modify `pos[]` for your emotion. 
+Also, you can modify pos[] for your emotion. 
 ```
 
 ## Good Luck!

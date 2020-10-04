@@ -1,4 +1,4 @@
-# Emotions-recognition-using-OpenPose
+# Emotions recognition using OpenPose
 Below you can observe detailed desctiption of how to run script of emotions recognition by using OpenPose
 
 ## Instal OpenPose

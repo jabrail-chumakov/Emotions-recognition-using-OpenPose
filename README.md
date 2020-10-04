@@ -11,11 +11,14 @@ First of all you need to install OpenPose itself. In order to do that, go to the
 1. In order to run the OpenPose on a webcam you can use the `webcam.py` script. Extracted files will be saved in the `output` folder in `HH_MM_SS` named new folder.
 
 ## Run `<emotion.py>` script
-In my case I used three emotion: happy, neutral and surprise. On the official website of [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/output.md) you can obserb location of keypoints. By importing your `<csv>` file to Python, Excel or online csv reader, you can observe `<x>` and `<y>` values. Thus, by comparing them you will achieve desired results. 
+In my case I used three emotion: happy, neutral and surprise. On the official website of [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/output.md) you can obserb location of keypoints. By importing your `csv` file to Python, Excel or online csv reader, you can observe `x` and `y` values. Thus, by comparing them you will achieve desired results. 
 
  ```javascript
 It should be noted, that in case if emotion not in the list it should throw garbage. 
 Also, you can modify pos[] for your emotion. 
 ```
+
+## Demonstration
+[![Watch the video](link to photo thumbnail)](link)
 
 ## Good Luck!

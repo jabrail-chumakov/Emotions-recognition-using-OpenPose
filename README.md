@@ -1,5 +1,5 @@
 # Emotions recognition using OpenPose
-Below you can observe detailed desctiption of how to run script of emotions recognition by using OpenPose
+Below you can observe detailed desctiption of how to run script of emotions recognition by using OpenPose. Project was done as a part of Human-Robot Interaction course.
 
 ## Instal OpenPose
 First of all you need to install OpenPose itself. In order to do that, go to the official release page and download it [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases).

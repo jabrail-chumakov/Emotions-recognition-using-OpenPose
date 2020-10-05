@@ -19,6 +19,6 @@ Also, you can modify pos[] for your emotion.
 ```
 
 ## Demonstration
-[![Watch the video](link to photo thumbnail)](link)
+[![Watch the video](http://i3.ytimg.com/vi/bdWDjS8xPiY/hqdefault.jpg)](https://www.youtube.com/watch?v=bdWDjS8xPiY&feature=youtu.be)
 
 ## Good Luck!
